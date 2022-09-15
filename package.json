@@ -1,0 +1,24 @@
+{
+    "name": "ehm-web",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/solke21/EHM-WEB.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/solke21/EHM-WEB/issues"
+    },
+    "homepage": "https://github.com/solke21/EHM-WEB#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
