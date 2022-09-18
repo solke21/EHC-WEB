@@ -7,7 +7,7 @@ services:
     environment:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: 1234
-      POSTGRES_DB: ehm
+      POSTGRES_DB: ehc
 
   admin:
     image: adminer

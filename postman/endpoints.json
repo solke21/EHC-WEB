@@ -1,7 +1,7 @@
 {
     "info": {
         "_postman_id": "88339189-f07a-4aab-9dbe-ca0025005ba6",
-        "name": "EHM",
+        "name": "EHC",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [{
@@ -13,7 +13,7 @@
                         "header": [],
                         "body": {
                             "mode": "raw",
-                            "raw": "{ \"nick_name\": \"rvilar\",\r\n\"email\": \"rvilar@ehm.com\",\r\n\"password_user\": \"1234\"}",
+                            "raw": "{ \"nick_name\": \"rvilar\",\r\n\"email\": \"rvilar@ehc.com\",\r\n\"password_user\": \"1234\"}",
                             "options": {
                                 "raw": {
                                     "language": "json"
@@ -41,7 +41,7 @@
                         "header": [],
                         "body": {
                             "mode": "raw",
-                            "raw": "{ \"nick_name\": \"rvilar\",\r\n\"email\": \"rvilar@ehm.com\",\r\n\"password_user\": \"1234\"}",
+                            "raw": "{ \"nick_name\": \"rvilar\",\r\n\"email\": \"rvilar@ehc.com\",\r\n\"password_user\": \"1234\"}",
                             "options": {
                                 "raw": {
                                     "language": "json"
