@@ -1,5 +1,5 @@
 {
-    "name": "ehm-web",
+    "name": "ehc-web",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -9,15 +9,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/solke21/EHM-WEB.git"
+        "url": "git+https://github.com/solke21/EHC-WEB.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/solke21/EHM-WEB/issues"
+        "url": "https://github.com/solke21/EHC-WEB/issues"
     },
-    "homepage": "https://github.com/solke21/EHM-WEB#readme",
+    "homepage": "https://github.com/solke21/EHC-WEB#readme",
     "dependencies": {
         "dotenv": "^16.0.2",
         "express": "^4.18.1",
