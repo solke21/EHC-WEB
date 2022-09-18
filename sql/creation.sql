@@ -1,6 +1,8 @@
 DROP TABLE IF EXISTS events;
 DROP TABLE IF EXISTS users;
 
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+
 CREATE TABLE IF NOT EXISTS events (
   id uuid PRIMARY KEY DEFAULT uuid_generate_v4(),
   name_event VARCHAR(20) NOT NULL,
